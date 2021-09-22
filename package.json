@@ -1,0 +1,20 @@
+{
+  "name": "laboratorio5",
+  "version": "1.0.0",
+  "description": "Laboratorio 5 de WEB AVANZADO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John samuel altamirano sanchez",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
